@@ -2,6 +2,35 @@
 
 A comprehensive store rating and management system built with React (TypeScript) frontend and Node.js/Express backend with PostgreSQL database.
 
+## 📸 Application Screenshots
+
+### Login Page
+![Login Page](./screenshots/login-page.png)
+
+### Registration Page
+![Registration Page](./screenshots/registration-page.png)
+
+### Admin Dashboard
+![Admin Dashboard](./screenshots/admin-dashboard.png)
+
+### User Management
+![User Management](./screenshots/user-management.png)
+
+### Create New User
+![Create New User](./screenshots/create-new%20user.png)
+
+### Create New Store
+![Create New Store](./screenshots/create-new-store.png)
+
+### Store Owner Profile
+![Store Owner Profile](./screenshots/Store-owner-profile.png)
+
+### Normal User Profile
+![Normal User Profile](./screenshots/Normal-user-profile.png)
+
+### My Rating
+![My Rating](./screenshots/My-rating.png)
+
 ## 🚀 Project Overview
 
 This application allows users to rate and review stores, while providing administrators with powerful management capabilities. The system supports role-based access control with different user types and comprehensive store management features.
