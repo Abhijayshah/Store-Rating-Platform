@@ -22,12 +22,12 @@
 11. [Security Testing Concepts](#11-security-testing-concepts)
 12. [Test Documentation Templates](#12-test-documentation-templates)
 13. [Testing Tools Overview](#13-testing-tools-overview)
-14. [Store Rating Platform — Complete Manual Test Cases](#14-store-rating-platform--complete-manual-test-cases)
-15. [Store Rating Platform — API Test Cases](#15-store-rating-platform--api-test-cases)
-16. [Store Rating Platform — End to End Test Scenarios](#16-store-rating-platform--end-to-end-test-scenarios)
-17. [Store Rating Platform — Real Bug Reports from Development](#17-store-rating-platform--real-bug-reports-from-development)
-18. [Store Rating Platform — Complete Test Plan](#18-store-rating-platform--complete-test-plan)
-19. [Store Rating Platform — Interview Q&A (60 questions)](#19-store-rating-platform--interview-qa-60-questions)
+14. [Store Rating Platform - Complete Manual Test Cases](#14-store-rating-platform---complete-manual-test-cases)
+15. [Store Rating Platform - API Test Cases](#15-store-rating-platform---api-test-cases)
+16. [Store Rating Platform - End to End Test Scenarios](#16-store-rating-platform---end-to-end-test-scenarios)
+17. [Store Rating Platform - Real Bug Reports from Development](#17-store-rating-platform---real-bug-reports-from-development)
+18. [Store Rating Platform - Complete Test Plan](#18-store-rating-platform---complete-test-plan)
+19. [Store Rating Platform - Interview Q&A (60 questions)](#19-store-rating-platform---interview-qa-60-questions)
 20. [Quick Fire Round (35 questions)](#20-quick-fire-round-35-questions)
 21. [Top 10 Things to Say That Impress Interviewers](#21-top-10-things-to-say-that-impress-interviewers)
 22. [Common Mistakes Junior QA Engineers Make](#22-common-mistakes-junior-qa-engineers-make)
@@ -288,7 +288,7 @@ The tools used to perform various testing activities.
 
 ---
 
-## 14. Store Rating Platform — Complete Manual Test Cases
+## 14. Store Rating Platform - Complete Manual Test Cases
 This section contains detailed manual test cases covering the entire platform.
 
 | Test Case ID | Module | Title | Preconditions | Steps | Test Data | Expected Result | Priority | Type |
@@ -311,7 +311,7 @@ This section contains detailed manual test cases covering the entire platform.
 
 ---
 
-## 15. Store Rating Platform — API Test Cases
+## 15. Store Rating Platform - API Test Cases
 Detailed API-level tests for every endpoint.
 
 - **POST /api/auth/register**:
@@ -331,7 +331,7 @@ Detailed API-level tests for every endpoint.
 
 ---
 
-## 16. Store Rating Platform — End to End Test Scenarios
+## 16. Store Rating Platform - End to End Test Scenarios
 Complete user journeys.
 
 1. **User Lifecycle**: Register -> Verify email (if applicable) -> Login -> View Dashboard -> Logout.
@@ -342,7 +342,7 @@ Complete user journeys.
 
 ---
 
-## 17. Store Rating Platform — Real Bug Reports from Development
+## 17. Store Rating Platform - Real Bug Reports from Development
 Actual defects found and fixed during the build.
 
 | Bug ID | Title | Module | Severity | Priority | Fix Applied |
@@ -354,7 +354,7 @@ Actual defects found and fixed during the build.
 
 ---
 
-## 18. Store Rating Platform — Complete Test Plan
+## 18. Store Rating Platform - Complete Test Plan
 A high-level document describing the testing strategy.
 
 - **Introduction**: This test plan covers the Store Rating Platform, a full-stack application for store discovery and rating.
@@ -370,7 +370,7 @@ A high-level document describing the testing strategy.
 
 ---
 
-## 19. Store Rating Platform — Interview Q&A (60 questions)
+## 19. Store Rating Platform - Interview Q&A (60 questions)
 
 ### Category A — General QA Questions (15)
 
